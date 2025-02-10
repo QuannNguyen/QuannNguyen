@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/gif/9jpac9"  />
+  <img src="https://imgflip.com/gif/9jpac9"  />
 </div>
 
 ###
