@@ -30,6 +30,7 @@
 </div>
 
 
-
-![9jpczl](https://github.com/user-attachments/assets/009fa10b-71e2-4e60-99b7-fba9fcd5add9)
+<div align="center">
+  <img height="200" src="https://imgflip.com/gif/9jpczl"/>
+</div>
 
