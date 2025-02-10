@@ -30,6 +30,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/009fa10b-71e2-4e60-99b7-fba9fcd5add9" width="600">
+  <img src="https://github.com/user-attachments/assets/009fa10b-71e2-4e60-99b7-fba9fcd5add9">
 </div>
 
