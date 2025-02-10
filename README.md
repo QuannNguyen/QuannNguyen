@@ -29,11 +29,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/9jpac9"  />
-</div>
-
-###
+![9jpcnm](https://github.com/user-attachments/assets/5d91a395-42f7-44ee-bf94-c28ae30c4674)
 
