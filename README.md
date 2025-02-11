@@ -21,12 +21,10 @@
 
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/QuannNguyen/count.svg?" >
-</div>
-
-
-
 ###
 ![GePo0jYaoAIgnR6](https://github.com/user-attachments/assets/79a53623-97f7-4ff4-8341-a2bff46097cc)
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/QuannNguyen/count.svg?" >
+</div>
 
