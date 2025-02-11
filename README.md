@@ -1,9 +1,7 @@
 <h2 align="left">Thanks for stopping by 👋</h2>
 
 
-###
-
-<img align="right" height="150" src="https://github.com/user-attachments/assets/009fa10b-71e2-4e60-99b7-fba9fcd5add9"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/009fa10b-71e2-4e60-99b7-fba9fcd5add9" />
 
 ###
 
