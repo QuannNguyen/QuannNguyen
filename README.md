@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌿 Just an ordinary wibu CS student from Ha Noi University of Science (HUS)<br>⛩️ I’m currently learning Java, Python and Japanese<br>✨ Always find myself at the bottom<br>💬 But I just need to keep "Trying to do better"<br>𓆝 𓆟 𓆞 𓆝 𓆟<br><img src="https://profile-counter.glitch.me/QuannNguyen/count.svg?" ></p>
+<p align="left">🌿 Just an ordinary wibu CS student from Ha Noi University of Science (HUS)<br>⛩️ I’m currently learning Java, Python and Japanese<br>✨ Always find myself at the bottom<br>💬 But I just need to keep "Trying to do better"<br>𓆝 𓆟 𓆞 𓆝 𓆟<br><img src="https://profile-counter.glitch.me/QuannNguyen/count.svg?" ,color="red" ></p>
 
 ###
 
