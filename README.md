@@ -1,28 +1,3 @@
 <h2 align="left">Thanks for stopping by 👋</h2>
 
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/009fa10b-71e2-4e60-99b7-fba9fcd5add9" />
-
-###
-
-<p align="left">🌿 Just an ordinary wibu CS student from Ha Noi University of Science (HUS)<br>⛩️ I’m currently learning Java, Python and Japanese<br>💬 Always find myself at the bottom<br>🔥 But I just need to keep "Trying to do better"<br>𓆝 𓆟 𓆞 𓆝 𓆟<br><img src="https://profile-counter.glitch.me/QuannNguyen/count.svg?"></p>
-
-###
-
-<br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuannNguyen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuannNguyen&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  >
-
-</div>
-
-###
-![GePo0jYaoAIgnR6](https://github.com/user-attachments/assets/79a53623-97f7-4ff4-8341-a2bff46097cc)
-
-
-
-
-</g>
-</svg>
-
-
